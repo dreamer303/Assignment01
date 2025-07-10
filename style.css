@@ -111,3 +111,42 @@ button:hover{
      
 }
 /* Productive Users Section */
+.productive-user{
+    max-width: 1140px;
+    margin: 0 auto;
+    background-color: #D6DDED;
+    border-radius: 24px;
+}
+.productive-user-title{
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 50px;
+}
+.user{
+    display: flex;
+    justify-content: space-around;
+}
+.user-number{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    margin-bottom: 2px;
+    margin-top: 0px;
+    text-align: center;
+}
+.user-title{
+    font-size: 20px;
+    color:#8987A1 ;
+    margin-bottom: 50px;
+}
+
+/* User feedback section style */
+
+
+
+/* style end */
+
+
+/* Let’s Get In Touch Section style */
