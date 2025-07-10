@@ -69,4 +69,45 @@ ul{
     
    
 }
+/* common section of all button */
+button:hover{
+    background-color: rgb(231, 176, 36);
+    font-weight: bold;
+    cursor: pointer;
+}
 /* See It in Action style */
+
+.see-it-in{
+    width: 1140px;
+    height: 328px;
+    display: flex;
+    justify-content: space-between;
+    margin: 116px auto;
+}
+.see-it-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+
+.see-it-subtitle{
+    font-size: 24px;
+    color: #8987A1;
+    width: 517px;
+}
+.see-it-button{
+    background-color: #4E47FF;
+    color: white;
+    margin-top: 23px;
+    border: none;
+    border-radius: 10px;
+    width: 229px;
+    padding: 12px 36px;
+}
+
+.see-it-image img{
+    border: none;
+    border-radius: 48px;
+     
+}
+/* Productive Users Section */
