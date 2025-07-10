@@ -229,3 +229,41 @@ input {
 
 }
 /* Footer Section style */
+footer{
+    width: 100%;
+    height: 428px;
+    margin-bottom: 0px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.footer-section{
+    max-width: 531px;
+    height: 221px;
+    text-align: center;
+    
+}
+.footer-title{
+    font-size: 100px;
+    font-weight: 800;
+    color: #4E47FF;
+    margin-bottom: 0;
+}
+.footer-description{
+    font-size: 16px;
+    color: #8987A1;
+    /* margin-top: 0; */
+    margin-bottom: 0;
+}
+.link-list{
+    font-size: 16px;
+    color: #8987A1;
+    margin: 0px;
+    padding: 15px;
+    
+}
+
+.link-list a{
+    text-decoration: none;
+    color: #8987A1;
+}
